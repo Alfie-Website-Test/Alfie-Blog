@@ -34,13 +34,12 @@
   	  top: 50%;
 	  left: 50%;
 	  transform: translate(-50%, -50%);
-	  color: maroon;
 	  font-family: Arial, sans-serif;
 	width: 100%;
 	}
 
         nav {
-            background: #77765D;
+            background: #444;
             padding: 12px;
             text-align: center;
         }
