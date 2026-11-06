@@ -10,9 +10,59 @@
             background: #333;
             color: white;
             text-align: center;
-            padding: 25px;
+            
         }
+	.political-header { 
+	  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)),
+		  url("");
+	  background-colour: #333;
+	  height: 250px;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  position: relative;
+	}
+.philosophical-header { 
+	  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)),
+		  url("");
+	  background-colour: #333;
+	  height: 250px;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  position: relative;
+	}
 
+.music-header { 
+	  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)),
+		  url("");
+	  background-colour: #333;
+	  height: 250px;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  position: relative;
+	}
+.film-header { 
+	  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)),
+		  url("");
+	  background-colour: #333;
+	  height: 250px;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  position: relative;
+	}
+	.hero-text {
+  	  text-align: center;
+ 	  position: absolute;
+  	  top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	  color: maroon;
+	  font-family: Arial, sans-serif;
+	width: 100%;
+	}
         .content {
             max-width: 800px;
             margin: 40px auto;
