@@ -19,7 +19,8 @@
             text-align: center;
         }
 .hero-image {
-	  background-image: url("London Skyline.png");
+	  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), 
+		  url("London Skyline.png");
 	  background-colour: #333;
 	  height: 250px;
 	  background-position: center;
