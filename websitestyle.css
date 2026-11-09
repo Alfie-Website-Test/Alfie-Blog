@@ -69,7 +69,7 @@
 	.hero-nav nav a {
    	  color: white;
    	  text-decoration: none;
-  	  margin-left: 15px;
+  	  text-align: right;
     font-size: clamp(12px, 1.2vw, 18px);
 	}
 
