@@ -1,0 +1,33 @@
+[
+    
+{
+        "title": "Hiking in The Canary Islands - An Immigration Battleground",
+        "date": "2026-11-23",
+        "displayDate": "November 23, 2026",
+        "description": "I spent this past week hiking 75km across Gran Canaria, an island often called a “miniature continent” thanks to its diverse biomes. Every leg of our journey felt like a whole different nation, but there was a unifying feature that was ever-present no matter where we found ourselves: the political banners and placards ready for the upcoming election...",
+        "url": "post4.html"
+    },
+
+
+    {
+        "title": "US Midterms - Is Trump Feeling Blue?",
+        "date": "2026-11-05",
+        "displayDate": "November 5, 2026",
+        "description": "After a whirlwind US midterm election, the results are in. Texas is Blue. Boundaries are breaking. But is this all a disaster in the making?...",
+        "url": "post3.html"
+    },
+    {
+        "title": "Burnham's Big Budget - Beleaguered",
+        "date": "2026-11-02",
+        "displayDate": "November 2, 2026",
+        "description": "I, like many other political students and commentators, was eagerly anticipating the mystical first budget announcement from Andy Burnham. I, like many others, was left disappointed...",
+        "url": "post2.html"
+    },
+    {
+        "title": "My First Blog Post",
+        "date": "2026-11-01",
+        "displayDate": "November 1, 2026",
+        "description": "Welcome to my blog! This is my first post. Here I will share my thoughts, experiences, ideas and interesting stories.",
+        "url": "post1.html"
+    }
+]
